@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foxedge-landing/static/css/main.cd935681.css",
+    "main.js": "/foxedge-landing/static/js/main.42f5f530.js",
+    "index.html": "/foxedge-landing/index.html",
+    "main.cd935681.css.map": "/foxedge-landing/static/css/main.cd935681.css.map",
+    "main.42f5f530.js.map": "/foxedge-landing/static/js/main.42f5f530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd935681.css",
+    "static/js/main.42f5f530.js"
+  ]
+}
